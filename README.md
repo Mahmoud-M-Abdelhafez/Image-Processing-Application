@@ -23,7 +23,6 @@ The **Image Processing Application** is a Python-based graphical user interface 
   11. High Pass Filter (HPF)
   12. Mean Filter
   13. Median Filter
-  14. (Add additional filters here as needed)
 
 ## **Usage**
 
